@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\bin\Debug\List-indeksofff.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\bin\Debug\List-indeksofff.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\bin\Debug\List-indeksofff.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List-indeksofff.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List-indeksofff.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List_indeksofff.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List_indeksofff.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List-indeksofff.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List-indeksofff.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List-indeksofff.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\List-indeksofff\List-indeksofff\obj\Debug\List-indeksofff.pdb

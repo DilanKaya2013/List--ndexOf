@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List-indeksofff", "List-indeksofff\List-indeksofff.csproj", "{E3BA41D4-553B-407F-8772-7EA80909304E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3BA41D4-553B-407F-8772-7EA80909304E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BA41D4-553B-407F-8772-7EA80909304E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BA41D4-553B-407F-8772-7EA80909304E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BA41D4-553B-407F-8772-7EA80909304E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDEE8E45-8051-44EC-A172-5EF4FF6D671F}
+	EndGlobalSection
+EndGlobal
